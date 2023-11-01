@@ -9,7 +9,8 @@ Currently, two official plugins are available:
 
 
   ## Screenshots
-<img src='ttps://github.com/SalimCanTetiker/Quiz/assets/99422185/802f341d-5750-4cd8-b212-1def9bce7f1e' width='250' height='500' />
-<img src='https://github.com/SalimCanTetiker/Quiz/assets/99422185/6a8730a1-bcc9-4cc6-92d7-e5f172f0c83a' width='250' height='500' />
-<img src='https://github.com/SalimCanTetiker/Quiz/assets/99422185/67d3ba21-4807-4e22-8a61-834021fb93db' width='250' height='500' />
+<img src='https://github.com/SalimCanTetiker/Quiz/assets/99422185/67d3ba21-4807-4e22-8a61-834021fb93db' width='500' height='500' />
+<img src='https://github.com/SalimCanTetiker/Quiz/assets/99422185/6a8730a1-bcc9-4cc6-92d7-e5f172f0c83a' width='500' height='500' />
+<img src='https://github.com/SalimCanTetiker/Quiz/assets/99422185/c29034fd-8d85-4227-85e9-15c3ee4b2d5d' width='500' height='500' />
+
 
